@@ -1,0 +1,162 @@
+[
+  "res",
+  {
+    "en": "userWinner",
+    "status": "Success",
+    "message": "Successfully",
+    "data": {
+      "user": [
+        {
+          "_id": "5ef48f0461f7105f1e39a4a2",
+          "si": 2,
+          "jt": "2020-07-14T05:01:13.320Z",
+          "s": "p",
+          "TCount": 0,
+          "sck": "XmOeL4BKGUmk1ca5AQdd",
+          "ip": null,
+          "did": "dis46863",
+          "chips": 911,
+          "name": "yogesh",
+          "pp": "images/upload/guest.png",
+          "ko": 0,
+          "chaalCount": 1,
+          "blindCount": 0,
+          "sideshowReqCount": 0,
+          "isCard": 0,
+          "isBlind": false,
+          "amount": 20,
+          "varCards": [
+            {
+              "rank": "ace",
+              "type": "heart"
+            },
+            {
+              "rank": "queen",
+              "type": "club"
+            },
+            {
+              "rank": "two",
+              "type": "spade"
+            }
+          ],
+          "cards": [
+            {
+              "rank": "ace",
+              "type": "heart"
+            },
+            {
+              "rank": "queen",
+              "type": "club"
+            },
+            {
+              "rank": "two",
+              "type": "spade"
+            }
+          ]
+        }
+      ],
+      "pi": [
+        {},
+        {},
+        {
+          "_id": "5ef48f0461f7105f1e39a4a2",
+          "si": 2,
+          "jt": "2020-07-14T05:01:13.320Z",
+          "s": "p",
+          "TCount": 0,
+          "sck": "XmOeL4BKGUmk1ca5AQdd",
+          "ip": null,
+          "did": "dis46863",
+          "chips": 873,
+          "name": "yogesh",
+          "pp": "images/upload/guest.png",
+          "ko": 0,
+          "chaalCount": 1,
+          "blindCount": 0,
+          "sideshowReqCount": 0,
+          "isCard": 0,
+          "isBlind": false,
+          "amount": 20,
+          "varCards": [
+            {
+              "rank": "ace",
+              "type": "heart"
+            },
+            {
+              "rank": "queen",
+              "type": "club"
+            },
+            {
+              "rank": "two",
+              "type": "spade"
+            }
+          ],
+          "cards": [
+            {
+              "rank": "ace",
+              "type": "heart"
+            },
+            {
+              "rank": "queen",
+              "type": "club"
+            },
+            {
+              "rank": "two",
+              "type": "spade"
+            }
+          ]
+        },
+        {
+          "_id": "5f0c61cc61f71020725bdea2",
+          "si": 3,
+          "jt": "2020-07-14T05:17:50.578Z",
+          "s": "",
+          "TCount": 0,
+          "sck": "twfS_a8v-QLSSTklAQjG",
+          "ip": null,
+          "did": "dis10309",
+          "chips": 630,
+          "name": "MONTY",
+          "pp": "images/upload/guest.png",
+          "ko": 1,
+          "chaalCount": 0,
+          "blindCount": 0,
+          "sideshowReqCount": 0,
+          "isCard": 0,
+          "isBlind": false,
+          "amount": 20,
+          "varCards": [
+            {
+              "rank": "four",
+              "type": "spade"
+            },
+            {
+              "rank": "two",
+              "type": "heart"
+            },
+            {
+              "rank": "queen",
+              "type": "diamond"
+            }
+          ],
+          "cards": [
+            {
+              "rank": "four",
+              "type": "spade"
+            },
+            {
+              "rank": "two",
+              "type": "heart"
+            },
+            {
+              "rank": "queen",
+              "type": "diamond"
+            }
+          ]
+        },
+        {}
+      ],
+      "pv": 40
+    }
+  }
+]

@@ -1,0 +1,12 @@
+import readExcel
+import openpyxl
+
+result = tuple(readExcel.read_excel("Students.xlsx"))
+
+wb = openpyxl.Workbook()
+sheet = wb.active
+sheet.append(("Name", "Percentage", "Result", "Age"))
+for i in result:
+    sheet.append(i)
+
+wb.save("StudentResult.xlsx")
